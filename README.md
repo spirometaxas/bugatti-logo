@@ -1,5 +1,5 @@
 # bugatti-logo
-Print the iconic [Bugatti](https://www.chevrolet.com/performance/corvette) logo to the console using unicode box characters!
+Print the iconic [Bugatti](https://www.bugatti.com/) logo to the console using unicode box characters!
 
 Minimum terminal width: 55 characters
 
