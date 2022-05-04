@@ -6,7 +6,7 @@ if (process.argv.length > 2) {
     if (params[0] === '--outline') {
         console.log(bugatti.logo_outline);
     } else if (params[0] === '--help') {
-        console.log('\nUsage\n' + '  $ npx bugatti-logo\n' + '  $ npx bugatti-logo --outline\n');
+        console.log('\nUsage:\n' + '  $ bugatti-logo\n' + '  $ bugatti-logo --outline\n');
     } else {
         console.log(bugatti.logo);
     }

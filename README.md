@@ -39,3 +39,7 @@ const bugatti = require('bugatti-logo');
 console.log(bugatti.logo);  // Filled logo
 console.log(bugatti.logo_outline);  // Logo outline
 ```
+
+## Related
+- [ferrari-logo](https://www.npmjs.com/package/ferrari-logo) - Print the Ferrari logo to the console!
+- [corvette-logo](https://www.npmjs.com/package/corvette-logo) - Print the Corvette logo to the console!

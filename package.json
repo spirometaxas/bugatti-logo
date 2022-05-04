@@ -1,6 +1,6 @@
 {
   "name": "bugatti-logo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Print the iconic Bugatti logo to the console!",
   "main": "./src/index.js",
   "bin": {
@@ -19,5 +19,5 @@
   },
   "author": "Spiro Metaxas",
   "license": "MIT",
-  "keywords": [ "Bugatti", "Bugatti logo", "bugatti-logo", "automotive", "cars", "sports cars", "exotics", "console", "unicode" ]
+  "keywords": [ "Bugatti", "Bugatti logo", "bugatti-logo", "automotive", "cars", "sports cars", "exotics", "cli", "console", "shell", "terminal", "unicode" ]
 }
